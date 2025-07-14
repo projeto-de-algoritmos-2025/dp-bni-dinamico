@@ -1,0 +1,38 @@
+#+TITLE: bni conquistador
+#+AUTHOR: Bruno Ribeiro e Igor Penha
+
+*Número da Lista:* =5= \\
+*Conteúdo da Disciplina:* =Dynamic Programming=
+
+** Alunos
+
+| Matrícula  | Aluno                |
+|------------+----------------------|
+| 21/1039288 | Bruno Campos Ribeiro |
+| 21/1029352 | Igor e Silva Penha   |
+|------------+----------------------|
+
+** Sobre
+
+O objetivo do trabalho é exercitar a teoria aprendida em sala na
+prática. Com isso, a partir do juiz Online [[https://leetcode.com][LeetCode]] foram selecionados
+quatro exercícios de nível hard na plataforma.
+
+** Exercícios Escolhidos
+
+| Exercício                 | Aluno         |
+|---------------------------+---------------|
+| [[https://leetcode.com/problems/longest-valid-parentheses/description/?envType=problem-list-v2&envId=dynamic-programming][Longest Valid Parentheses]] | [[https://github.com/BrunoRiibeiro][Bruno Ribeiro]] |
+|---------------------------+---------------|
+
+#+CAPTION: Accepted for Longest Valid Parentheses
+#+NAME: accepted-32
+[[./img/accepted-32.png]]
+
+
+** Vídeo
+
+Para acessar à explicação dos exercício, basta acessar ao seguinte link
+disponível no YouTube:
+
+[[https://youtu.be/KuvRWlrGHoE][LINK]]
