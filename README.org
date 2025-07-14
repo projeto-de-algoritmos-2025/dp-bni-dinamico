@@ -23,12 +23,16 @@ quatro exercícios de nível hard na plataforma.
 | Exercício                 | Aluno         |
 |---------------------------+---------------|
 | [[https://leetcode.com/problems/longest-valid-parentheses/description/?envType=problem-list-v2&envId=dynamic-programming][Longest Valid Parentheses]] | [[https://github.com/BrunoRiibeiro][Bruno Ribeiro]] |
+| [[https://leetcode.com/problems/number-of-music-playlists/description/?envType=problem-list-v2&envId=dynamic-programming][Number of Music Playlists]] | [[https://github.com/BrunoRiibeiro][Bruno Ribeiro]] |
 |---------------------------+---------------|
 
 #+CAPTION: Accepted for Longest Valid Parentheses
 #+NAME: accepted-32
 [[./img/accepted-32.png]]
 
+#+CAPTION: Accepted for Number of Music Playlists
+#+NAME: accepted-920
+[[./img/accepted-920.png]]
 
 ** Vídeo
 
