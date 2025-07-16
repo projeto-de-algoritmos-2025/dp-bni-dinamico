@@ -1,4 +1,4 @@
-#+TITLE: bni conquistador
+#+TITLE: bni dinâmico
 #+AUTHOR: Bruno Ribeiro e Igor Penha
 
 *Número da Lista:* =5= \\
@@ -20,13 +20,13 @@ quatro exercícios de nível hard na plataforma.
 
 ** Exercícios Escolhidos
 
-| Exercício                 | Aluno         |
-|---------------------------+---------------|
-| [[https://leetcode.com/problems/longest-increasing-path-in-a-matrix/?envType=problem-list-v2&envId=dynamic-programming][Longest Increasing Path in a Matrix]] | [[https://github.com/igorpenhaa][Igor Penha]] |
-| [[https://leetcode.com/problems/longest-valid-parentheses/description/?envType=problem-list-v2&envId=dynamic-programming][Longest Valid Parentheses]] | [[https://github.com/BrunoRiibeiro][Bruno Ribeiro]] |
-| [[https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/?envType=problem-list-v2&envId=dynamic-programming][Maximum Number of Events That Can be Attended ii]] | [[https://github.com/igorpenhaa][Igor Penha]] |
-| [[https://leetcode.com/problems/number-of-music-playlists/description/?envType=problem-list-v2&envId=dynamic-programming][Number of Music Playlists]] | [[https://github.com/BrunoRiibeiro][Bruno Ribeiro]] |
-|---------------------------+---------------|
+| Exercício                                        | Aluno         |
+|--------------------------------------------------+---------------|
+| [[https://leetcode.com/problems/longest-increasing-path-in-a-matrix/?envType=problem-list-v2&envId=dynamic-programming][Longest Increasing Path in a Matrix]]              | [[https://github.com/igorpenhaa][Igor Penha]]    |
+| [[https://leetcode.com/problems/longest-valid-parentheses/description/?envType=problem-list-v2&envId=dynamic-programming][Longest Valid Parentheses]]                        | [[https://github.com/BrunoRiibeiro][Bruno Ribeiro]] |
+| [[https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/?envType=problem-list-v2&envId=dynamic-programming][Maximum Number of Events That Can be Attended ii]] | [[https://github.com/igorpenhaa][Igor Penha]]    |
+| [[https://leetcode.com/problems/number-of-music-playlists/description/?envType=problem-list-v2&envId=dynamic-programming][Number of Music Playlists]]                        | [[https://github.com/BrunoRiibeiro][Bruno Ribeiro]] |
+|--------------------------------------------------+---------------|
 
 #+CAPTION: Accepted for Longest Increasing Path in a Matrix
 #+NAME: longest-increasing-path-in-a-matrix
